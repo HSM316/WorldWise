@@ -3,8 +3,7 @@ import PageNav from "../components/PageNav";
 import styles from "./Login.module.css";
 import { useAuth } from "../contexts/FakeAuthContext";
 import { useNavigate } from "react-router";
-import toast from "react-hot-toast";
-import Button from "../contexts/Button";
+import Button from "../components/Button";
 
 function Login() {
   const [email, setEmail] = useState("HSM@example.com");

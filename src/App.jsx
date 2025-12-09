@@ -9,11 +9,12 @@ import CountryList from "./components/CountryList";
 import City from "./components/City";
 import { AuthProvider } from "./contexts/FakeAuthContext";
 import ProtectedRoute from "./pages/ProtectedRoute";
+import { CitiesProvider } from "./contexts/CitiesContext";
 
 function App() {
   return (
-    <>
-      <AuthProvider>
+    <AuthProvider>
+      <CitiesProvider>
         <BrowserRouter>
           <Routes>
             <Route index element={<Homepage />} />
@@ -35,8 +36,8 @@ function App() {
             </Route>
           </Routes>
         </BrowserRouter>
-      </AuthProvider>
-    </>
+      </CitiesProvider>
+    </AuthProvider>
   );
 }
 
