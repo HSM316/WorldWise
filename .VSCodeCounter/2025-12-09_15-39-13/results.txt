@@ -1,0 +1,67 @@
+Date : 2025-12-09 15:39:13
+Directory : /Users/hsm/WorldWise
+Total : 29 files,  5380 codes, 1 comments, 102 blanks, all 5483 lines
+
+Languages
++----------------+------------+------------+------------+------------+------------+
+| language       | files      | code       | comment    | blank      | total      |
++----------------+------------+------------+------------+------------+------------+
+| JSON           |          2 |      4,904 |          0 |          2 |      4,906 |
+| JavaScript JSX |         12 |        258 |          0 |         56 |        314 |
+| CSS            |          9 |        181 |          0 |         31 |        212 |
+| JavaScript     |          2 |         13 |          1 |          4 |         18 |
+| HTML           |          1 |         13 |          0 |          1 |         14 |
+| Markdown       |          1 |          9 |          0 |          8 |         17 |
+| XML            |          2 |          2 |          0 |          0 |          2 |
++----------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                   | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                      |         29 |      5,380 |          1 |        102 |      5,483 |
+| . (Files)                                              |          6 |      4,939 |          1 |         15 |      4,955 |
+| public                                                 |          1 |          1 |          0 |          0 |          1 |
+| src                                                    |         22 |        440 |          0 |         87 |        527 |
+| src (Files)                                            |          4 |         86 |          0 |         14 |        100 |
+| src/assets                                             |          1 |          1 |          0 |          0 |          1 |
+| src/components                                         |          4 |         66 |          0 |         14 |         80 |
+| src/contexts                                           |          3 |         67 |          0 |         16 |         83 |
+| src/pages                                              |         10 |        220 |          0 |         43 |        263 |
++--------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------+----------------+------------+------------+------------+------------+
+| filename                                               | language       | code       | comment    | blank      | total      |
++--------------------------------------------------------+----------------+------------+------------+------------+------------+
+| /Users/hsm/WorldWise/README.md                         | Markdown       |          9 |          0 |          8 |         17 |
+| /Users/hsm/WorldWise/eslint.config.js                  | JavaScript     |          8 |          0 |          2 |         10 |
+| /Users/hsm/WorldWise/index.html                        | HTML           |         13 |          0 |          1 |         14 |
+| /Users/hsm/WorldWise/package-lock.json                 | JSON           |      4,874 |          0 |          1 |      4,875 |
+| /Users/hsm/WorldWise/package.json                      | JSON           |         30 |          0 |          1 |         31 |
+| /Users/hsm/WorldWise/public/vite.svg                   | XML            |          1 |          0 |          0 |          1 |
+| /Users/hsm/WorldWise/src/App.css                       | CSS            |          0 |          0 |          1 |          1 |
+| /Users/hsm/WorldWise/src/App.jsx                       | JavaScript JSX |         25 |          0 |          3 |         28 |
+| /Users/hsm/WorldWise/src/assets/react.svg              | XML            |          1 |          0 |          0 |          1 |
+| /Users/hsm/WorldWise/src/components/Logo.jsx           | JavaScript JSX |         10 |          0 |          3 |         13 |
+| /Users/hsm/WorldWise/src/components/Logo.module.css    | CSS            |          3 |          0 |          1 |          4 |
+| /Users/hsm/WorldWise/src/components/PageNav.jsx        | JavaScript JSX |         24 |          0 |          5 |         29 |
+| /Users/hsm/WorldWise/src/components/PageNav.module.css | CSS            |         29 |          0 |          5 |         34 |
+| /Users/hsm/WorldWise/src/contexts/Button.jsx           | JavaScript JSX |          9 |          0 |          3 |         12 |
+| /Users/hsm/WorldWise/src/contexts/Button.module.css    | CSS            |         15 |          0 |          2 |         17 |
+| /Users/hsm/WorldWise/src/contexts/FakeAuthContext.jsx  | JavaScript JSX |         43 |          0 |         11 |         54 |
+| /Users/hsm/WorldWise/src/index.css                     | CSS            |         52 |          0 |          8 |         60 |
+| /Users/hsm/WorldWise/src/main.jsx                      | JavaScript JSX |          9 |          0 |          2 |         11 |
+| /Users/hsm/WorldWise/src/pages/AppLayout.jsx           | JavaScript JSX |          4 |          0 |          2 |          6 |
+| /Users/hsm/WorldWise/src/pages/Homepage.jsx            | JavaScript JSX |         26 |          0 |          5 |         31 |
+| /Users/hsm/WorldWise/src/pages/Homepage.module.css     | CSS            |         31 |          0 |          4 |         35 |
+| /Users/hsm/WorldWise/src/pages/Login.jsx               | JavaScript JSX |         52 |          0 |          9 |         61 |
+| /Users/hsm/WorldWise/src/pages/Login.module.css        | CSS            |         22 |          0 |          3 |         25 |
+| /Users/hsm/WorldWise/src/pages/PageNotFound.jsx        | JavaScript JSX |          4 |          0 |          2 |          6 |
+| /Users/hsm/WorldWise/src/pages/Pricing.jsx             | JavaScript JSX |         25 |          0 |          6 |         31 |
+| /Users/hsm/WorldWise/src/pages/Pricing.module.css      | CSS            |         29 |          0 |          6 |         35 |
+| /Users/hsm/WorldWise/src/pages/Product.jsx             | JavaScript JSX |         27 |          0 |          5 |         32 |
+| /Users/hsm/WorldWise/src/pages/Product.module.css      | CSS            |          0 |          0 |          1 |          1 |
+| /Users/hsm/WorldWise/vite.config.js                    | JavaScript     |          5 |          1 |          2 |          8 |
+| Total                                                  |                |      5,380 |          1 |        102 |      5,483 |
++--------------------------------------------------------+----------------+------------+------------+------------+------------+

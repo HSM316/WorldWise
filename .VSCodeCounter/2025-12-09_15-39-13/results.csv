@@ -1,0 +1,31 @@
+"filename", "language", "CSS", "JavaScript JSX", "XML", "JSON", "JavaScript", "Markdown", "HTML", "comment", "blank", "total"
+"/Users/hsm/WorldWise/README.md", "Markdown", 0, 0, 0, 0, 0, 9, 0, 0, 8, 17
+"/Users/hsm/WorldWise/eslint.config.js", "JavaScript", 0, 0, 0, 0, 8, 0, 0, 0, 2, 10
+"/Users/hsm/WorldWise/index.html", "HTML", 0, 0, 0, 0, 0, 0, 13, 0, 1, 14
+"/Users/hsm/WorldWise/package-lock.json", "JSON", 0, 0, 0, 4874, 0, 0, 0, 0, 1, 4875
+"/Users/hsm/WorldWise/package.json", "JSON", 0, 0, 0, 30, 0, 0, 0, 0, 1, 31
+"/Users/hsm/WorldWise/public/vite.svg", "XML", 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+"/Users/hsm/WorldWise/src/App.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/hsm/WorldWise/src/App.jsx", "JavaScript JSX", 0, 25, 0, 0, 0, 0, 0, 0, 3, 28
+"/Users/hsm/WorldWise/src/assets/react.svg", "XML", 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+"/Users/hsm/WorldWise/src/components/Logo.jsx", "JavaScript JSX", 0, 10, 0, 0, 0, 0, 0, 0, 3, 13
+"/Users/hsm/WorldWise/src/components/Logo.module.css", "CSS", 3, 0, 0, 0, 0, 0, 0, 0, 1, 4
+"/Users/hsm/WorldWise/src/components/PageNav.jsx", "JavaScript JSX", 0, 24, 0, 0, 0, 0, 0, 0, 5, 29
+"/Users/hsm/WorldWise/src/components/PageNav.module.css", "CSS", 29, 0, 0, 0, 0, 0, 0, 0, 5, 34
+"/Users/hsm/WorldWise/src/contexts/Button.jsx", "JavaScript JSX", 0, 9, 0, 0, 0, 0, 0, 0, 3, 12
+"/Users/hsm/WorldWise/src/contexts/Button.module.css", "CSS", 15, 0, 0, 0, 0, 0, 0, 0, 2, 17
+"/Users/hsm/WorldWise/src/contexts/FakeAuthContext.jsx", "JavaScript JSX", 0, 43, 0, 0, 0, 0, 0, 0, 11, 54
+"/Users/hsm/WorldWise/src/index.css", "CSS", 52, 0, 0, 0, 0, 0, 0, 0, 8, 60
+"/Users/hsm/WorldWise/src/main.jsx", "JavaScript JSX", 0, 9, 0, 0, 0, 0, 0, 0, 2, 11
+"/Users/hsm/WorldWise/src/pages/AppLayout.jsx", "JavaScript JSX", 0, 4, 0, 0, 0, 0, 0, 0, 2, 6
+"/Users/hsm/WorldWise/src/pages/Homepage.jsx", "JavaScript JSX", 0, 26, 0, 0, 0, 0, 0, 0, 5, 31
+"/Users/hsm/WorldWise/src/pages/Homepage.module.css", "CSS", 31, 0, 0, 0, 0, 0, 0, 0, 4, 35
+"/Users/hsm/WorldWise/src/pages/Login.jsx", "JavaScript JSX", 0, 52, 0, 0, 0, 0, 0, 0, 9, 61
+"/Users/hsm/WorldWise/src/pages/Login.module.css", "CSS", 22, 0, 0, 0, 0, 0, 0, 0, 3, 25
+"/Users/hsm/WorldWise/src/pages/PageNotFound.jsx", "JavaScript JSX", 0, 4, 0, 0, 0, 0, 0, 0, 2, 6
+"/Users/hsm/WorldWise/src/pages/Pricing.jsx", "JavaScript JSX", 0, 25, 0, 0, 0, 0, 0, 0, 6, 31
+"/Users/hsm/WorldWise/src/pages/Pricing.module.css", "CSS", 29, 0, 0, 0, 0, 0, 0, 0, 6, 35
+"/Users/hsm/WorldWise/src/pages/Product.jsx", "JavaScript JSX", 0, 27, 0, 0, 0, 0, 0, 0, 5, 32
+"/Users/hsm/WorldWise/src/pages/Product.module.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/hsm/WorldWise/vite.config.js", "JavaScript", 0, 0, 0, 0, 5, 0, 0, 1, 2, 8
+"Total", "-", 181, 258, 2, 4904, 13, 9, 13, 1, 102, 5483
